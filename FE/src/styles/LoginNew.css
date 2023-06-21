@@ -1,0 +1,14 @@
+#facebookIcon img{
+    background-image:url("https://image.flaticon.com/icons/svg/145/145802.svg");
+    background-repeat: no-repeat;
+    width: 3rem;
+    height: 3rem;
+}
+
+#googleIcon img{
+    background-image: url("https://image.flaticon.com/icons/svg/145/145804.svg");
+    background-repeat: no-repeat;
+    width: 2.8rem;
+    height: 2.8rem;
+  }
+
